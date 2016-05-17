@@ -1,0 +1,48 @@
+onePointCrossover
+START
+
+Mutation Data:
+MutationConnectionsChance: 0.25
+PerturbChance: 0.9
+CrossoverChance 0.75
+LinkMutationChance: 2
+NodeMutationChance: 0.5
+BiasMutationChance: 0.4
+StepSize: 0.1
+DisableMutationChance: 0.4
+EnableMutationChance: 0.2
+
+100: 0h, 0m, 30s. FITNESS: 585.5
+200: 0h, 0m, 30s. FITNESS: 585.5
+300: 0h, 0m, 30s. FITNESS: 585.5
+400: 0h, 0m, 30s. FITNESS: 585.5
+500: 0h, 0m, 30s. FITNESS: 585.5
+600: 0h, 1m, 4s. FITNESS: 629
+700: 0h, 1m, 30s. FITNESS: 998
+800: 0h, 1m, 30s. FITNESS: 998
+900: 0h, 1m, 30s. FITNESS: 998
+1000: 0h, 1m, 55s. FITNESS: 1389
+1100: 0h, 1m, 55s. FITNESS: 1389
+1200: 0h, 1m, 55s. FITNESS: 1389
+1300: 0h, 1m, 55s. FITNESS: 1389
+1400: 0h, 38m, 17s. FITNESS: 1555.5
+1500: 0h, 38m, 17s. FITNESS: 1555.5
+1600: 1h, 46m, 30s. FITNESS: 1601
+1700: 2h, 10m, 2s. FITNESS: 1838.5
+1800: 2h, 10m, 2s. FITNESS: 1838.5
+1900: 2h, 39m, 8s. FITNESS: 1939.5
+2000: 3h, 44m, 23s. FITNESS: 3268.5
+2100: 3h, 44m, 23s. FITNESS: 3268.5
+2200: 3h, 44m, 23s. FITNESS: 3268.5
+2300: 3h, 44m, 23s. FITNESS: 3268.5
+2400: 3h, 44m, 23s. FITNESS: 3268.5
+2500: 3h, 44m, 23s. FITNESS: 3268.5
+2600: 3h, 44m, 23s. FITNESS: 3268.5
+2700: 3h, 44m, 23s. FITNESS: 3268.5
+2800: 3h, 44m, 23s. FITNESS: 3268.5
+2900: 3h, 44m, 23s. FITNESS: 3268.5
+3000: 3h, 44m, 23s. FITNESS: 3268.5
+3100: 3h, 44m, 23s. FITNESS: 3268.5
+3200: 3h, 44m, 23s. FITNESS: 3268.5
+COMPLETED: 5h, 15m, 4s. FITNESS: 4014.5
+END

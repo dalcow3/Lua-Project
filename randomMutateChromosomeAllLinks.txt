@@ -1,0 +1,28 @@
+randomMutateChromosome all links
+START
+
+Mutation Data:
+MutationConnectionsChance: 0.25
+PerturbChance: 0.9
+CrossoverChance 0.75
+LinkMutationChance: 2
+NodeMutationChance: 0.5
+BiasMutationChance: 0.4
+StepSize: 0.1
+DisableMutationChance: 0.4
+EnableMutationChance: 0.2
+
+100: 0h, 1m, 10s. FITNESS: 677
+200: 0h, 1m, 10s. FITNESS: 677
+300: 0h, 1m, 10s. FITNESS: 677
+400: 0h, 1m, 10s. FITNESS: 677
+500: 0h, 1m, 10s. FITNESS: 677
+600: 0h, 1m, 10s. FITNESS: 677
+700: 0h, 3m, 36s. FITNESS: 990.5
+800: 0h, 3m, 36s. FITNESS: 990.5
+900: 0h, 3m, 36s. FITNESS: 990.5
+1000: 0h, 35m, 54s. FITNESS: 1000
+1100: 4h, 0m, 12s. FITNESS: 1328.5
+1200: 4h, 0m, 12s. FITNESS: 1328.5
+1300: 4h, 0m, 12s. FITNESS: 1328.5
+1400: 4h, 12m, 38s. FITNESS: 1404

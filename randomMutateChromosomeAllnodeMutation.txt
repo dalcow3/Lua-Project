@@ -1,0 +1,46 @@
+randomMutateChromosome all nodeMutation
+START
+
+Mutation Data:
+MutationConnectionsChance: 0.25
+PerturbChance: 0.9
+CrossoverChance 0.75
+LinkMutationChance: 2
+NodeMutationChance: 0.5
+BiasMutationChance: 0.4
+StepSize: 0.1
+DisableMutationChance: 0.4
+EnableMutationChance: 0.2
+
+100: 0h, 0m, 37s. FITNESS: 574
+200: 0h, 0m, 37s. FITNESS: 574
+300: 0h, 0m, 37s. FITNESS: 574
+400: 0h, 0m, 37s. FITNESS: 574
+500: 0h, 0m, 37s. FITNESS: 574
+600: 0h, 17m, 27s. FITNESS: 925.5
+700: 0h, 17m, 27s. FITNESS: 925.5
+800: 0h, 17m, 27s. FITNESS: 925.5
+900: 0h, 17m, 27s. FITNESS: 925.5
+1000: 0h, 26m, 4s. FITNESS: 1059
+1100: 0h, 30m, 2s. FITNESS: 1346
+1200: 0h, 30m, 2s. FITNESS: 1346
+1300: 0h, 30m, 2s. FITNESS: 1346
+1400: 0h, 58m, 24s. FITNESS: 1549.5
+1500: 0h, 58m, 24s. FITNESS: 1549.5
+1600: 1h, 34m, 0s. FITNESS: 1616.5
+1700: 2h, 49m, 40s. FITNESS: 1851
+1800: 2h, 49m, 40s. FITNESS: 1851
+1900: 3h, 3m, 56s. FITNESS: 2855
+2000: 3h, 3m, 56s. FITNESS: 2855
+2100: 3h, 3m, 56s. FITNESS: 2855
+2200: 3h, 3m, 56s. FITNESS: 2855
+2300: 3h, 3m, 56s. FITNESS: 2855
+2400: 3h, 3m, 56s. FITNESS: 2855
+2500: 3h, 3m, 56s. FITNESS: 2855
+2600: 3h, 3m, 56s. FITNESS: 2855
+2700: 3h, 3m, 56s. FITNESS: 2855
+2800: 3h, 3m, 56s. FITNESS: 2855
+COMPLETED: 3h, 6m, 59s. FITNESS: 4088
+END
+COMPLETED: 3h, 27m, 39s. FITNESS: 4088
+END

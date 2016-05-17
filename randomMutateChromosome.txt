@@ -1,0 +1,32 @@
+randomMutateChromosome
+START
+
+Mutation Data:
+MutationConnectionsChance: 0.25
+PerturbChance: 0.9
+CrossoverChance 0.75
+LinkMutationChance: 2
+NodeMutationChance: 0.5
+BiasMutationChance: 0.4
+StepSize: 0.1
+DisableMutationChance: 0.4
+EnableMutationChance: 0.2
+
+100: 0h, 1m, 17s. FITNESS: 436
+200: 0h, 1m, 17s. FITNESS: 436
+300: 0h, 1m, 17s. FITNESS: 436
+400: 0h, 1m, 17s. FITNESS: 436
+500: 0h, 3m, 40s. FITNESS: 589.5
+600: 0h, 4m, 0s. FITNESS: 681.5
+700: 0h, 10m, 33s. FITNESS: 751
+800: 0h, 15m, 39s. FITNESS: 859.5
+900: 0h, 22m, 17s. FITNESS: 1359
+1000: 0h, 22m, 17s. FITNESS: 1359
+1100: 0h, 22m, 17s. FITNESS: 1359
+1200: 0h, 22m, 17s. FITNESS: 1359
+1300: 0h, 22m, 17s. FITNESS: 1359
+1400: 0h, 42m, 6s. FITNESS: 1408.5
+1500: 2h, 28m, 53s. FITNESS: 1884.5
+1600: 2h, 28m, 53s. FITNESS: 1884.5
+1700: 2h, 28m, 53s. FITNESS: 1884.5
+1800: 2h, 28m, 53s. FITNESS: 1884.5
